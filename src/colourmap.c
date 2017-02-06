@@ -1484,7 +1484,7 @@ const float g_pgwrap_aaafCMap[PGWRAP_NUM_CMAPS][PGWRAP_CMAP_LEVELS][3] = {
         { 4.6990194e-01, 0.0000000e+00, 1.2540705e-01},
         { 4.0392157e-01, 2.8421709e-14, 1.2156863e-01},
     },
-    /* "cubehelix" */
+    /* "cubehelix" (http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) */
     {
         { 0.000000e+00, 0.000000e+00, 0.000000e+00 },
         { 2.603584e-02, 8.914224e-03, 2.548081e-02 },
