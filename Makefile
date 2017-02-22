@@ -36,7 +36,7 @@ LIBINSTALLDIR = /usr/local/lib
 # man page installation directory - modify if needed
 MANINSTALLDIR = /usr/local/share/man/man3
 
-# copgwrapand definitions
+# command definitions
 DELCMD = rm
 
 ifeq ($(shell uname), Darwin)
